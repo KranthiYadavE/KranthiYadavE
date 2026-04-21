@@ -1,12 +1,12 @@
-
 ### 👋 Hi, I'm Kranthi Kumar Elupula
 
-🎓 MS in Computer Science @ Texas A&M – Corpus Christi  
-👨‍💻 Ex-Accenture | ML & Software Engineering Enthusiast  
-🤖 I build AI projects, chatbots, LLM tools, and full-stack apps  
-🌐 Currently exploring Generative AI, Gradio, and scalable backend systems  
-📬 Reach me at: kranthiyadav333@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/kranthikumar333) | [Portfolio](https://github.com/KranthiYadavE)
+* 🎓 **MS in Computer Science** @ Texas A&M – Corpus Christi
+* 👨‍💻 **Ex-Accenture** | AI Inference Engineer
+* 🤖 Building AI infrastructure, vLLM tools, and high-performance kernels
+* 📬 **Reach me:** kranthiyadav333@gmail.com
+* 🔗 [LinkedIn](https://www.linkedin.com/in/kranthikumar333) | [Portfolio](https://github.com/KranthiYadavE)
+
+---
 ---
 ### 🚀 LLM Inference & Performance Engineering
 I specialize in the **"Engine Room"** of AI—optimizing the software-hardware interface for large-scale model deployment.
