@@ -7,7 +7,15 @@
 🌐 Currently exploring Generative AI, Gradio, and scalable backend systems  
 📬 Reach me at: kranthiyadav333@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/kranthikumar333) | [Portfolio](https://github.com/KranthiYadavE)
+I specialize in the "Engine Room" of AI—optimizing the software-hardware interface for large-scale model deployment.
 
+Inference Engines: Deep expertise in vLLM (PagedAttention, Continuous Batching) and TensorRT-LLM.
+
+Kernel Development: Writing custom Triton kernels for high-performance GPU operations (e.g., L2 distance, fused operators).
+
+Quantization: Practical implementation of AWQ, GPTQ, and QLoRA (4-bit/8-bit) to maximize throughput.
+
+Optimization: Scaling models via Tensor Parallelism (TP) and optimizing KV cache to reduce fragmentation.
 <!--
 **KranthiYadavE/KranthiYadavE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
