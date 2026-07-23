@@ -60,9 +60,7 @@ I specialize in the **"Engine Room"** of AI—optimizing the software-hardware i
 ---
 
 <div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KranthiYadavE&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KranthiYadavE&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
