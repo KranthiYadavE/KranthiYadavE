@@ -58,7 +58,7 @@ I specialize in the **"Engine Room"** of AI—optimizing the software-hardware i
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
+<!--
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KranthiYadavE&theme=dark" alt="GitHub Streak" />
 </div>
