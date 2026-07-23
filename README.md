@@ -59,12 +59,11 @@ I specialize in the **"Engine Room"** of AI—optimizing the software-hardware i
 
 ---
 
-### 📊 GitHub Stats
-
-![Kranthi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KranthiYadavE&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KranthiYadavE&layout=compact&theme=dark)
-
----
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KranthiYadavE&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
 <!--
 **KranthiYadavE/KranthiYadavE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
