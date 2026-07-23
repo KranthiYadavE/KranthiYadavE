@@ -17,6 +17,14 @@ I specialize in the **"Engine Room"** of AI—optimizing the software-hardware i
 * **Optimization:** Scaling models via **Tensor Parallelism (TP)** and optimizing **KV cache** to reduce fragmentation.
 
 ---
+### 🛠 Tech Stack Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
