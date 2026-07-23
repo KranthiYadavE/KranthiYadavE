@@ -64,6 +64,8 @@ I specialize in the **"Engine Room"** of AI—optimizing the software-hardware i
     <img src="https://github-profile-trophy.vercel.app/?username=KranthiYadavE&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </div>
+
+---
 <!--
 **KranthiYadavE/KranthiYadavE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
