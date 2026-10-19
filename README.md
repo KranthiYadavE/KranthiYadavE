@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Kranthi Kumar Elupula
 
 * 🎓 **MS in Computer Science** @ Texas A&M – Corpus Christi
-* 👨‍💻 **Ex-Accenture** | AI Inference Engineer
+* 👨‍💻 AI Engineer | AI Inference Engineer
 * 🤖 Building AI infrastructure, vLLM tools, and high-performance kernels
 * 📬 **Reach me:** kranthiyadav333@gmail.com
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kranthikumar333) | [Portfolio](https://kranthiyadave.github.io/portfolio/)
